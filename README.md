@@ -33,7 +33,7 @@
         .profile-picture img {
             width: 150px;
             height: 150px;
-      border-radius: 50%;
+      border-radius: 150%;
             object-fit: cover;
         }
     </style>
