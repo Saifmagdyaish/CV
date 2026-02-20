@@ -47,7 +47,7 @@
         <h3>Accountant</h3>
         <ul class="contact-info">
             <li><strong>Address:</strong> Alkom Alahmar, Menouf, Menoufia, Egypt</li>
-            <li><strong>Phone:</strong> (+20) 10130170753</li>
+            <li><strong>Phone:</strong> (+20) 1030170753</li>
             <li><strong>Email:</strong> saifmagdy1000@gmail.com</li>
             <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/saif-magdy-aish-5568641ba">linkedin.com/in/saif-magdy-aish</a></li>
         </ul>
